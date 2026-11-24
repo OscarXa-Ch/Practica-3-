@@ -1,4 +1,4 @@
-const API_URL = "https://p1-paises.onrender.com/api/productos";
+const API_URL = "https://p1-paises.onrender.com/";
 const API_KEY = "Oscar_Sofia_P3";
 const mensaje=document.getElementById("mensaje"), resultados=document.getElementById("resultados");
 async function listar(){
